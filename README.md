@@ -91,7 +91,7 @@ Reviewing your stupid code ...
 ```
 
 Image 
-![ex1.png](ex1.png)
+![ex1.png](ex01.png)
 
 
 # Thanks to all contributors!!
