@@ -58,7 +58,7 @@ py cli.py --i ./test/stupid_code.py --api [your api key] -d 1
 ```
 Your SENIOR .py - Reviewing your {stupid-code}...      
 Input file path: .\test\stupid_code.py
-Gemini API Key: AIzaSyD-dxNKyl2O9dBrL4itSme76J5xpLXFVAQ
+Gemini API Key: ******************
 Review in Detail
 Review/Analysis : 1. **Variable Names**: The variable names `a` and `b` are not very descriptive. It would be better to use names that reflect their purpose 
 in the code, such as `sum` or `total`.
