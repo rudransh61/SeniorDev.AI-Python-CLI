@@ -12,7 +12,7 @@ This tool is using google's generative api and python module
 To use it you have to first have an api key
 from google studio. 
 
-See this ![Google's Generative.ai Github](https://github.com/google/generative-ai-python) for more information about them
+See this [Google's Generative.ai Github](https://github.com/google/generative-ai-python) for more information about them
 
 ## Installation 
 
@@ -91,7 +91,7 @@ Reviewing your stupid code ...
 ```
 
 Image 
-[ex1.png](ex1.png)
+![ex1.png](ex1.png)
 
 
 # Thanks to all contributors!!
