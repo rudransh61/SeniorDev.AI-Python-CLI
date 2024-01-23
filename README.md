@@ -3,8 +3,8 @@
 <div align="center">
   <img src="./logo.png" width="200"/>
   <h1>SeniorDevAI.py</h1>
-  <p>Review your stupid code in your terminal only using AI.</p>
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <h2>Review your stupid code in your terminal only using AI.</h2>
 </div>
 
 This is a tool in python for you to review your code 
